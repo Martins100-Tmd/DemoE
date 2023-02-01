@@ -1,7 +1,7 @@
 let all = [
   {
     name: "Martins Olumide",
-    age: 19,
+    age: 20,
   },
   {
     name: "Marvellous Ayoade",
