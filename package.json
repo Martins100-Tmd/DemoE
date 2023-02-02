@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "nodemon server",
+    "serve": "node server",
     "build": "npm install"
   },
   "keywords": [],
